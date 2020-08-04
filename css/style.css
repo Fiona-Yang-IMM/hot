@@ -3,10 +3,20 @@ Author: Fiona Yang
 1526-Loaded Content by AJAX
 2020-08-03
 */
+
 /*
+Font:
 title font-family: 'Lora', serif;
 content font-family: 'Source Sans Pro', sans-serif;
+
+Color scheme:
+Dark blue grey: #38444d
+Orange:#f18c1f
+Light blue grey: #4f6579
+Light blue:#92c2ea
 */
+
+
 
 * {
 	box-sizing: border-box;
